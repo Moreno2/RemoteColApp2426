@@ -14,5 +14,7 @@
   <h1>Remote Col App</h1>
   <p>Version 1</p>
   <h2>Hola mundillo</h2>
+  <h3>Hola mundillo3</h3>
+  <h4>Hola mundillo4</h4>
   </body>
 </html>
